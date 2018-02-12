@@ -4,8 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Install Files
 npm install -g path --save
+
 npm install -g path --http
+
 npm install -g express --save
+
 npm install -g socket.io --save
+
 npm install -g socket.io-client --save
+
 
